@@ -1,0 +1,1 @@
+export const CHANGE_FILTER = 'filterTodo.CHANGE_FILTER';
